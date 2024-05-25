@@ -3,3 +3,7 @@
 3-use ngrok app to run the app host in internet
 4- make a change in google sign in file to have your data
 5-make a change in firebase options file to have your data
+
+
+use this drive link to have more data about this project
+https://drive.google.com/drive/folders/1mGMvXm5_Wy4sl0hsuy7FD0Q6Y5-zVJwy?usp=sharing
