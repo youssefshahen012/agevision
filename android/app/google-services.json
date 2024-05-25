@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862895588901",
+    "firebase_url": "https://mobileappyoussefshahen-default-rtdb.firebaseio.com",
+    "project_id": "mobileappyoussefshahen",
+    "storage_bucket": "mobileappyoussefshahen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862895588901:android:989ad0e1f4220df47d61cc",
+        "android_client_info": {
+          "package_name": "com.example.signup_rest_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862895588901-0liidcmgf19ip656ga3qmv0h1h8egl4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signup_rest_login",
+            "certificate_hash": "9a8a366fc304866b6a500d634acc1d099a2e9ade"
+          }
+        },
+        {
+          "client_id": "862895588901-al4r16un2v155lf4s6on34ad30o55hcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTT9xDerfSredKBkL_glUgmDH8andSo90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862895588901-al4r16un2v155lf4s6on34ad30o55hcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
